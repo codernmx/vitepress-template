@@ -1,0 +1,23 @@
+{
+  "hash": "082f6186",
+  "browserHash": "963bf6ee",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0529cc9d",
+      "needsInterop": false
+    },
+    "lcl-test-ui/dist/lcl-test-ui.mjs": {
+      "src": "../../../../node_modules/lcl-test-ui/dist/lcl-test-ui.mjs",
+      "file": "lcl-test-ui_dist_lcl-test-ui__mjs.js",
+      "fileHash": "3b06607a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-IBAS2QTM": {
+      "file": "chunk-IBAS2QTM.js"
+    }
+  }
+}
